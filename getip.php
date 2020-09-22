@@ -1,0 +1,1 @@
+<? Print $REMOTE_ADDR ?>
